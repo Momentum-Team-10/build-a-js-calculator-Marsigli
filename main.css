@@ -1,5 +1,5 @@
 .container {
-    max-width: 825px;
+    max-width: 809px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -61,93 +61,100 @@
     font-size: 80px;
     align-items: center;
     justify-content: center;
-    margin: 3px 3px;
+    margin: 1px 1px;
 }
 
 #display {
     color: white;
     background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     height: 100px;
-    font-size: 25px;
-    margin: 3px 3px;
+    font-size: 65px;
+    margin: 1px 1px;
 }
 
 #button-7 {
     background-color: green;
-    margin: 3px 3px;
+    margin: 1px 1px;
 }
 
 #button-8 {
     background-color: green;
-    margin: 3px 3px;
+    margin: 1px 1px;
 }
 
 #button-9 {
     background-color: green;
-    margin: 3px 3px;
+    margin: 1px 1px;
 }
 
 #division {
     background-color: lightgreen;
-    margin: 3px 3px;
+    margin: 1px 1px;
 }
 
 #button-4 {
     background-color: green;
-    margin: 3px 3px;
+    margin: 1px 1px;
 }
 
 #button-5 {
     background-color: green;
-    margin: 3px 3px;
+    margin: 1px 1px;
 }
 
 #button-6 {
     background-color: green;
-    margin: 3px 3px;
+    margin: 1px 1px;
 }
 
 #multiplication {
     background-color: lightgreen;
-    margin: 3px 3px;
+    margin: 1px 1px;
 }
 
 #button-1 {
     background-color: green;
-    margin: 3px 3px;
+    margin: 1px 1px;
 }
 
 #button-2 {
     background-color: green;
-    margin: 3px 3px;
+    margin: 1px 1px;
 }
 
 #button-3 {
     background-color: green;
-    margin: 3px 3px;
+    margin: 1px 1px;
 }
 
 #subtraction {
     background-color: lightgreen;
-    margin: 3px 3px;
+    margin: 1px 1px;
 }
 
 #button-0 {
     background-color: green;
-    margin: 3px 3px;
+    margin: 1px 1px;
 }
 
 #decimal {
     background-color: green;
-    margin: 3px 3px;
+    margin: 1px 1px;
 }
 
 #equals {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: green;
-    margin: 3px 3px;
+    margin: 1px 1px;
 }
 
 #addition {
     background-color: lightgreen;
-    margin: 3px 3px;
+    margin: 1px 1px;
 }
